@@ -1,0 +1,38 @@
+"Resource/UI/HudDemomanCharge.res"
+{	
+	"ChargeMeter"
+	{	
+		"ControlName"	"ContinuousProgressBar"
+		"fieldName"		"ChargeMeter"
+		"font"			"Default"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"2"
+		"wide"					"64"
+		"tall"					"4"				
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
+		"textAlignment"			"Left"
+		"dulltext"				"0"
+		"brighttext"			"0"
+"bgcolor_override" "0 0 0 175"
+"fgcolor_override" "255 255 255 255"
+	}	
+	"modulate"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"modulate"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"3"
+		"wide"			"64"
+		"tall"			"4"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../vgui/replay/thumbnails/modulate"
+		"scaleImage"	"1"	
+                "alpha" "225"
+         }				
+}
