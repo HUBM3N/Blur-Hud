@@ -1,6 +1,6 @@
 # Blur-Hud
 tf2 hud
-[screenshots](https://imgur.com/a/gLbPU2S)
+![screenshot](https://i.imgur.com/78d1Vcx.jpeg)
  # Credits:
   ### Hypnotize - Lighthud
   ### Village Green Preserver - HL2 Hud
