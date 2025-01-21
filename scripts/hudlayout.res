@@ -10,8 +10,8 @@
 		"enabled" "1"
 		"xpos"	"c26"	[$WIN32]
 		"ypos"	"r190"	[$WIN32]
-		"wide"	"99999"
-		"tall"	"99999"
+		"wide"	"f0"
+		"tall"	"f0"
 	}
 	
 	HudMedicCharge
@@ -21,9 +21,9 @@
 		"enabled"		"1"
 		"xpos"	"c-10" //c26	[$WIN32]
 		"ypos"	"r190+21"	[$WIN32]
-		"wide"	"99999"
+		"wide"	"f0"
 "alpha" "255"
-		"tall"	"99999"
+		"tall"	"f0"
 	}
 	
 	HudDemomanCharge
@@ -67,8 +67,8 @@
 		"enabled"	"1"
 		"xpos"		"72"	[$WIN32]
 		"ypos"		"33"	[$WIN32]
-		"wide"		"99999"
-		"tall"		"99999"
+		"wide"		"f0"
+		"tall"		"f0"
 	}
 
 	CMainTargetID
@@ -170,8 +170,8 @@
 		"enabled"		"1"
 		"xpos"			"c-32"	[$WIN32]
 		"ypos"			"304"	[$WIN32]
-		"wide"			"9999"
-		"tall"			"9999"
+		"wide"			"f0"
+		"tall"			"f0"
 "alpha" "225"
 
 	}	
