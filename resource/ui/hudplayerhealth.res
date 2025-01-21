@@ -7,8 +7,8 @@
 		"fieldName"		"HudPlayerHealth"
 		"xpos"	"c-70-137"	[$WIN32]
 		"ypos"	"r190"	[$WIN32]
-		"wide"	"99999"
-		"tall"	"99999"
+		"wide"	"f0"
+		"tall"	"f0"
 		"zpos"			"2"
 		"visible"		"1"
 		"enabled"		"1"	
